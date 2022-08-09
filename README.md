@@ -5,4 +5,4 @@
 https://medium.com/@0xpr4bin/pwn101-tryhackme-fea18ed88e45
 
 # Website 
-http://prabinsigdel.com.np/
+https://www.prabinsigdel.com.np/2022/08/pwn101-tryhackme.html
